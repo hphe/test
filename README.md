@@ -1,2 +1,2 @@
 # test
-this is a describe
+this is a test repository
